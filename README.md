@@ -30,6 +30,11 @@ After, install:
 - Install the workspace dependencies with `uv sync`
 - Install the workspace dependencies plus development tools with `uv sync --dev`
 
+## Python tooling
+
+- Install the workspace dependencies with `uv sync`
+- Install the workspace dependencies plus development tools with `uv sync --dev`
+
 ## Code style
 
 After cloning the repository run `git config --local core.hooksPath
