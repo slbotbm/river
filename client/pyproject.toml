@@ -15,8 +15,8 @@ dev = [
     "platformdirs==4.5.1",
     "pyright==1.1.407",
     "pysort==1.0.0",
+    "ruff==0.12.0",
     "typing-extensions==4.15.0",
-    "yapf==0.43.0",
 ]
 
 [tool.uv]
